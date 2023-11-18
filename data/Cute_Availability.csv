@@ -1,0 +1,260 @@
+Pokemon,Gender,Location,Chance,Method,Evolves From,diamond,heartgold,pearl,platinum,soulsilver,slot2-emerald,slot2-firered,slot2-leafgreen,slot2-ruby,slot2-sapphire
+abomasnow,0.5,mt coronet exterior snowfall,20,walk,snover,1,0,1,1,0,0,0,0,0,0
+abra,0.25,sinnoh route 215 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+absol,0.5,whirl islands b3f,20,walk,,1,1,1,1,1,0,0,0,0,0
+arbok,0.5,kanto route 4 area,10,walk,ekans,1,1,1,1,1,0,1,0,0,0
+ariados,0.5,sinnoh route 229 area,10,walk,spinarak,1,1,1,1,0,0,0,0,0,0
+aron,0.5,fuego ironworks area,1,walk,,1,0,0,1,0,0,0,0,0,0
+azumarill,0.5,sinnoh victory road inside b1f,10,walk,marill,0,0,0,1,0,0,0,0,0,0
+azurill,0.75,great marsh area 6,1,walk,,1,0,1,0,0,0,0,0,0,0
+bagon,0.5,sinnoh route 210 west towards celestic town,1,walk,,0,0,1,1,0,0,0,0,0,0
+banette,0.5,stark mountain area,10,walk,shuppet,1,0,1,1,0,0,0,0,0,0
+barboach,0.5,sinnoh route 228 area,40,good-rod,,1,0,1,1,0,0,0,0,0,0
+beautifly,0.5,sinnoh sea route 230 area,10,walk,silcoon,1,0,1,1,0,0,0,0,0,0
+beedrill,0.5,viridian forest area,5,walk,kakuna,0,0,0,0,1,0,0,0,0,0
+bellsprout,0.5,sinnoh sea route 230 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+bibarel,0.5,valor lakefront area,20,walk,bidoof,1,0,1,1,0,0,0,1,0,0
+bidoof,0.5,valley windworks area,20,walk,,1,1,1,1,1,0,0,0,0,0
+bonsly,0.5,sinnoh route 210 south towards solaceon town,1,walk,,0,0,1,0,0,0,0,0,0,0
+budew,0.5,viridian forest area,10,walk,,1,1,1,1,1,0,0,1,0,1
+buizel,0.5,valley windworks area,10,walk,,1,1,1,1,1,0,0,1,0,0
+buneary,0.5,kanto route 25 area,20,walk,,1,1,1,1,1,0,0,0,0,1
+butterfree,0.5,viridian forest area,5,walk,metapod,0,1,0,0,0,0,0,0,0,0
+cacnea,0.5,sinnoh route 228 area,1,walk,,1,0,1,1,0,0,0,0,0,0
+cacturne,0.5,sinnoh route 228 area,10,walk,cacnea,1,0,1,1,0,0,0,0,0,0
+camerupt,0.5,stark mountain inside,20,walk,numel,1,0,1,1,0,0,0,0,0,0
+carnivine,0.5,viridian forest area,10,walk,,0,1,0,0,1,0,0,0,0,0
+carvanha,0.5,great marsh area 6,1,super-rod,,1,0,1,1,0,0,0,0,0,0
+cascoon,0.5,sinnoh route 205 east towards eterna city,20,walk,wurmple,0,0,1,1,0,0,0,0,0,0
+caterpie,0.5,viridian forest area,20,walk,,1,1,1,1,0,0,1,0,0,0
+chatot,0.5,sprout tower 3f,10,walk,,1,1,1,1,1,0,0,0,0,0
+chimecho,0.5,turnback cave pillar 3,5,walk,chingling,1,0,1,1,0,0,0,0,0,0
+chinchou,0.5,vermilion city ss anne dock,40,super-rod,,1,1,1,1,1,0,0,0,0,0
+chingling,0.5,whirl islands b3f,10,walk,,1,1,1,1,1,0,0,1,0,0
+clamperl,0.5,sinnoh route 221 area,60,surf,,1,1,1,0,1,0,0,0,0,0
+clefairy,0.75,mt moon 2f,10,walk,cleffa,1,1,1,1,1,0,0,0,0,0
+cleffa,0.75,mt coronet 1f route 211,10,walk,,1,0,1,1,0,0,0,0,0,0
+corphish,0.5,celestic town area,40,super-rod,,1,0,1,1,0,0,0,0,0,0
+corsola,0.75,union cave b2f,30,walk,,1,1,1,1,1,0,0,0,0,0
+crawdaunt,0.5,celestic town area,15,super-rod,corphish,1,0,1,1,0,0,0,0,0,0
+croagunk,0.5,sinnoh route 212 east towards pastoria city,5,walk,,0,0,0,1,0,0,0,0,0,0
+cubone,0.5,sinnoh route 203 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+delibird,0.5,sinnoh route 217 area,20,walk,,1,0,1,1,1,0,0,0,0,0
+dewgong,0.5,sinnoh victory road inside b1f,30,walk,seel,1,1,0,1,1,0,0,0,0,0
+diglett,0.5,vermilion city area,90,walk,,1,1,1,1,1,0,0,0,0,0
+dodrio,0.5,mt silver outside,1,walk,doduo,0,1,0,0,1,0,0,0,0,0
+doduo,0.5,sinnoh route 201 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+donphan,0.5,mt silver top,10,walk,phanpy,0,1,0,0,0,0,0,0,0,0
+dragonair,0.5,mt coronet 4f,10,super-rod,dratini,1,1,1,1,1,0,0,0,0,0
+dratini,0.5,mt coronet 4f,40,super-rod,,1,1,1,1,1,0,0,0,0,0
+drifloon,0.5,valley windworks area,100,only-one,,1,0,1,1,0,0,0,0,0,0
+drowzee,0.5,sinnoh route 215 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+dugtrio,0.5,sinnoh route 228 area,5,walk,diglett,1,1,1,1,1,0,0,0,0,0
+dunsparce,0.5,sinnoh route 208 area,90,walk,,1,1,1,1,1,0,0,0,0,0
+dusclops,0.5,turnback cave pillar 3,10,walk,duskull,1,0,1,1,0,0,0,0,0,0
+duskull,0.5,turnback cave pillar 1,10,walk,,1,0,1,1,0,0,0,0,0,0
+dustox,0.5,sinnoh sea route 230 area,10,walk,cascoon,0,0,1,1,0,0,0,0,0,0
+ekans,0.5,sinnoh route 212 east towards pastoria city,10,walk,,1,1,1,1,1,0,1,0,0,0
+electabuzz,0.25,sinnoh route 222 area,10,walk,elekid,0,1,0,1,1,0,0,0,0,0
+electrike,0.5,valley windworks area,20,walk,,1,0,1,1,0,0,0,0,0,0
+elekid,0.25,valley windworks area,4,walk,,1,0,1,0,0,0,1,0,0,0
+farfetchd,0.5,sinnoh route 221 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+fearow,0.5,stark mountain area,10,walk,spearow,1,1,1,1,1,0,0,0,0,0
+finneon,0.5,valley windworks area,40,good-rod,,1,0,1,1,0,0,0,0,0,0
+flaaffy,0.5,sinnoh route 222 area,1,walk,mareep,1,1,1,1,1,0,0,0,0,0
+floatzel,0.5,sinnoh victory road inside exit,60,walk,buizel,1,0,1,1,0,0,0,0,0,0
+furret,0.5,kanto route 1 area,1,walk,sentret,0,1,0,0,1,0,0,0,0,0
+gabite,0.5,sinnoh victory road inside exit,1,walk,gible,0,0,0,1,0,0,0,0,0,0
+gastly,0.5,turnback cave pillar 1,10,walk,,1,1,1,1,1,0,0,0,0,1
+gastrodon,0.5,valley windworks area,10,walk,shellos,1,0,1,1,0,0,0,0,0,0
+gengar,0.5,old chateau 2f right room,4,walk,haunter,1,0,1,1,0,0,0,1,0,0
+geodude,0.5,wayward cave b1f,100,walk,,1,1,1,1,1,0,0,0,0,0
+gible,0.5,wayward cave b1f,1,walk,,1,0,1,1,0,0,0,0,0,0
+girafarig,0.5,valor lakefront area,10,walk,,1,1,1,1,1,0,0,0,0,0
+glameow,0.75,sinnoh route 222 area,20,walk,,0,0,1,0,0,0,0,0,0,0
+gligar,0.5,stark mountain area,10,walk,,1,1,1,1,0,1,0,0,0,0
+gloom,0.5,sinnoh sea route 230 area,20,walk,oddish,1,1,1,1,1,0,0,0,0,0
+golbat,0.5,whirl islands b3f,30,walk,zubat,1,1,1,1,1,0,0,1,0,0
+goldeen,0.5,unknown all rattata area,60,surf,,1,1,1,1,1,0,0,0,0,0
+golduck,0.5,twinleaf town area,30,walk,psyduck,1,1,1,1,1,0,0,0,0,0
+golem,0.5,johto safari zone zone peak,10,walk,graveler,0,1,0,0,1,0,0,0,0,0
+graveler,0.5,valor lakefront area,20,walk,geodude,1,1,1,1,1,0,0,0,0,0
+grimer,0.5,sinnoh route 212 east towards pastoria city,30,walk,,1,1,1,1,1,0,0,0,0,0
+growlithe,0.25,sinnoh route 202 area,4,walk,,1,1,1,1,0,0,1,0,0,0
+gulpin,0.5,kanto route 3 area,20,walk,,0,0,0,0,1,0,0,0,0,0
+gyarados,0.5,valley windworks area,100,super-rod,magikarp,1,1,1,1,1,0,0,0,0,0
+haunter,0.5,turnback cave pillar 3,10,walk,gastly,1,1,1,1,1,0,0,1,0,0
+heatran,0.5,stark mountain heatran chamber,100,only-one,,1,0,1,1,0,0,0,0,0,0
+hippopotas,0.5,ruin maniac cave 10 25 different unown caught,1,walk,,1,0,1,1,0,0,0,0,0,0
+hippowdon,0.5,sinnoh route 228 area,10,walk,hippopotas,1,0,1,1,0,0,0,0,0,0
+hoothoot,0.5,viridian forest area,10,walk,,1,1,1,1,1,0,0,0,0,0
+hoppip,0.5,sinnoh route 205 south towards floaroma town,10,walk,,1,1,1,1,1,0,0,0,0,0
+horsea,0.5,whirl islands b2f,60,surf,,1,1,1,1,1,0,0,0,0,0
+houndoom,0.5,sinnoh route 215 area,1,walk,houndour,0,0,1,0,0,0,0,0,0,0
+houndour,0.5,valor lakefront area,10,walk,,0,1,0,1,1,0,0,0,0,0
+hypno,0.5,kanto route 11 area,10,walk,drowzee,0,1,0,0,1,0,0,0,0,0
+jigglypuff,0.75,kanto route 4 area,10,walk,igglybuff,0,1,0,0,1,0,0,0,0,0
+kadabra,0.25,sinnoh victory road 2f,20,walk,abra,1,1,1,1,1,0,0,0,0,0
+kakuna,0.5,viridian forest area,10,walk,weedle,1,0,1,1,1,0,0,1,0,0
+kecleon,0.5,sinnoh route 210 west towards celestic town,1,walk,,1,0,0,0,0,0,0,0,0,0
+kingler,0.5,whirl islands b2f,90,super-rod,krabby,0,1,0,0,1,0,0,0,0,0
+kirlia,0.5,sinnoh route 212 north towards hearthome city,5,walk,ralts,1,0,1,1,0,0,0,0,0,0
+koffing,0.5,team rocket hq area,100,walk,,0,1,0,1,1,0,0,0,0,0
+krabby,0.5,whirl islands b3f,90,walk,,1,1,1,1,1,0,0,0,0,0
+kricketot,0.5,viridian forest area,20,walk,,1,1,1,1,1,0,0,0,0,0
+kricketune,0.5,valor lakefront area,10,walk,kricketot,1,0,1,1,0,0,0,0,0,0
+lanturn,0.5,vermilion city ss anne dock,10,super-rod,chinchou,1,1,1,0,1,0,0,0,0,0
+lapras,0.5,union cave b2f,100,surf,,1,1,1,1,1,0,0,0,0,0
+larvitar,0.5,sinnoh route 207 area,20,walk,,1,1,0,1,1,0,0,0,0,0
+ledian,0.5,sinnoh route 229 area,10,walk,ledyba,1,0,1,1,1,0,0,0,0,0
+ledyba,0.5,kanto route 2 south towards viridian city,10,walk,,0,0,0,0,1,0,0,0,0,0
+lickitung,0.5,sinnoh route 215 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+linoone,0.5,ruins of alph outside,10,walk,zigzagoon,0,1,0,0,1,0,0,0,0,0
+lombre,0.5,sinnoh route 229 area,4,walk,lotad,1,0,1,1,0,0,0,0,0,1
+lotad,0.5,sinnoh route 212 east towards pastoria city,4,walk,,1,0,1,1,0,0,0,0,0,1
+loudred,0.5,mt coronet exterior snowfall,1,walk,whismur,1,0,1,1,0,0,0,0,0,0
+lumineon,0.5,valley windworks area,15,super-rod,finneon,1,0,1,1,0,0,0,0,0,0
+luvdisc,0.75,sinnoh route 224 area,60,surf,,1,1,1,1,1,0,0,0,0,0
+luxio,0.5,sinnoh route 222 area,10,walk,shinx,1,0,1,1,0,0,0,0,0,0
+machoke,0.25,stark mountain inside,10,walk,machop,1,1,1,1,1,0,0,0,0,0
+machop,0.25,sinnoh route 211 west towards eterna city,10,walk,,1,1,1,1,1,0,0,0,0,0
+magby,0.25,stark mountain inside,4,walk,,1,0,1,0,0,0,0,1,0,0
+magcargo,0.5,stark mountain inside,20,walk,slugma,1,0,1,1,0,0,0,0,0,0
+magikarp,0.5,whirl islands b2f,40,surf,,1,1,1,1,1,0,0,0,0,0
+magmar,0.25,johto safari zone zone peak,10,walk,magby,0,1,0,1,1,0,0,0,0,0
+makuhita,0.25,whirl islands b3f,20,walk,,1,1,1,1,1,0,0,0,0,0
+mankey,0.5,sinnoh sea route 226 area,10,walk,,1,1,1,1,0,0,0,0,0,0
+mantine,0.5,johto sea route 41 area,1,surf,mantyke,0,1,0,0,0,0,0,0,0,0
+mantyke,0.5,sunyshore city area,1,surf,,1,0,1,1,0,0,0,0,0,0
+mareep,0.5,valley windworks area,10,walk,,1,1,1,1,1,0,0,0,0,0
+marill,0.5,sinnoh route 215 area,30,walk,azurill,1,1,1,1,1,0,0,0,0,0
+marowak,0.5,rock tunnel b1f,10,walk,cubone,0,1,0,0,1,0,0,0,0,0
+masquerain,0.5,sinnoh route 229 area,1,surf,surskit,0,0,0,1,0,0,0,0,0,0
+mawile,0.5,kanto route 9 area,20,walk,,1,0,1,1,1,0,0,0,1,0
+medicham,0.5,sinnoh victory road inside exit,10,walk,meditite,1,0,1,1,0,0,0,0,0,0
+meditite,0.5,sprout tower 3f,10,walk,,1,1,1,1,1,0,0,0,0,0
+meowth,0.5,kanto route 8 area,10,walk,,0,0,0,0,1,0,0,0,0,0
+metapod,0.5,viridian forest area,10,walk,caterpie,1,1,1,1,0,0,1,0,0,0
+mightyena,0.5,sinnoh route 215 area,1,walk,poochyena,1,0,0,0,0,0,0,0,0,0
+minun,0.5,national park area,10,walk,,0,1,0,0,1,0,0,0,0,0
+misdreavus,0.5,mt silver top,10,walk,,0,1,1,0,1,0,0,0,0,0
+muk,0.5,kanto route 18 area,1,walk,grimer,0,1,0,0,1,0,0,0,0,0
+murkrow,0.5,lost tower 5f,10,walk,,1,1,0,0,1,0,0,0,0,0
+natu,0.5,sinnoh route 224 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+nincada,0.5,eterna forest area,1,walk,,1,0,1,1,0,0,0,0,0,0
+noctowl,0.5,viridian forest area,20,walk,hoothoot,1,1,1,1,1,0,0,0,0,0
+nosepass,0.5,sinnoh route 206 area,20,walk,,1,0,1,1,0,0,0,0,0,0
+numel,0.5,viridian forest area,10,walk,,1,1,1,1,1,0,0,0,0,0
+nuzleaf,0.5,sinnoh route 229 area,4,walk,seedot,1,0,1,1,0,0,0,0,1,0
+octillery,0.5,sunyshore city area,15,super-rod,remoraid,1,0,1,1,0,0,0,0,0,0
+oddish,0.5,sinnoh sea route 230 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+onix,0.5,wayward cave b1f,20,walk,,1,1,1,1,1,0,0,0,0,0
+pachirisu,0.5,valley windworks area,5,walk,,1,0,1,1,0,0,0,0,0,0
+paras,0.5,mt moon 2f,10,walk,,0,1,0,0,1,0,0,0,0,0
+parasect,0.5,cerulean cave b1f,20,walk,paras,0,1,0,0,1,0,0,0,0,0
+pelipper,0.5,valley windworks area,60,surf,wingull,1,0,1,1,0,0,0,0,0,0
+persian,0.5,kanto route 7 area,4,walk,meowth,0,0,0,0,1,0,0,0,0,0
+phanpy,0.5,sinnoh route 207 area,20,walk,,1,1,1,1,0,0,0,0,0,0
+pichu,0.5,trophy garden area,1,walk,,1,0,1,1,0,0,0,0,0,0
+pidgeotto,0.5,viridian forest area,10,walk,pidgey,0,1,0,0,1,0,0,0,0,0
+pidgey,0.5,viridian forest area,20,walk,,1,1,1,1,1,0,0,0,0,0
+pikachu,0.5,viridian forest area,1,walk,pichu,1,1,1,1,1,0,0,0,0,0
+piloswine,0.5,sinnoh route 217 area,1,walk,swinub,0,0,0,1,0,0,0,0,0,0
+pineco,0.5,sinnoh route 229 area,4,walk,,1,0,1,1,0,1,0,0,0,0
+pinsir,0.5,sinnoh route 229 area,20,walk,,0,0,1,1,0,0,0,0,0,0
+plusle,0.5,national park area,10,walk,,0,1,0,0,1,0,0,0,0,0
+poliwag,0.5,viridian city area,60,surf,,1,1,1,1,1,0,0,0,0,0
+poliwhirl,0.5,viridian city area,30,surf,poliwag,1,1,1,1,1,0,0,0,0,0
+ponyta,0.5,sinnoh route 215 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+poochyena,0.5,sinnoh route 214 area,20,walk,,0,1,0,1,1,0,0,0,0,0
+primeape,0.5,sinnoh sea route 226 area,10,walk,mankey,1,1,1,1,0,0,0,0,0,0
+psyduck,0.5,twinleaf town area,60,walk,,1,1,1,1,1,0,0,0,0,0
+pupitar,0.5,mt silver 3f,5,walk,larvitar,0,1,0,0,1,0,0,0,0,0
+purugly,0.75,sinnoh route 229 area,10,walk,glameow,0,0,1,0,0,0,0,0,0,0
+quagsire,0.5,union cave b2f,30,walk,wooper,1,1,1,1,1,0,0,0,0,0
+qwilfish,0.5,kanto route 13 area,15,super-rod,,1,1,1,1,1,0,0,0,0,0
+ralts,0.5,sinnoh route 212 north towards hearthome city,20,walk,,1,1,1,1,1,0,0,0,0,0
+rapidash,0.5,mt silver outside,5,walk,ponyta,0,1,0,0,1,0,0,0,0,0
+raticate,0.5,union cave b2f,10,walk,rattata,1,1,1,1,1,0,0,0,0,0
+rattata,0.5,unknown all rattata area,10,walk,,1,1,1,1,1,0,0,0,0,0
+relicanth,0.125,sinnoh sea route 226 area,15,super-rod,,1,1,1,1,1,0,0,0,0,0
+remoraid,0.5,sunyshore city area,40,super-rod,,1,1,1,1,1,0,0,0,0,0
+rhydon,0.5,stark mountain inside,20,walk,rhyhorn,1,0,1,1,0,0,0,0,0,0
+rhyhorn,0.5,stark mountain entrance,20,walk,,1,1,1,1,1,0,0,0,0,0
+roselia,0.5,trophy garden area,20,walk,budew,1,0,1,1,0,0,0,0,0,0
+sableye,0.5,kanto route 9 area,20,walk,,1,1,1,1,0,0,0,0,0,1
+sandshrew,0.5,wayward cave b1f,10,walk,,1,1,1,1,1,0,0,1,0,0
+sandslash,0.5,sinnoh route 228 area,10,walk,sandshrew,1,1,1,1,1,0,0,1,0,0
+scyther,0.5,sinnoh route 229 area,5,walk,,1,0,0,1,0,0,0,0,0,0
+seadra,0.5,whirl islands b2f,10,surf,horsea,1,1,1,1,1,0,0,0,0,0
+seaking,0.5,union cave b1f,30,surf,goldeen,1,1,1,1,1,0,0,0,0,0
+sealeo,0.5,sinnoh sea route 230 area,60,walk,spheal,0,1,1,1,1,0,0,0,0,0
+seedot,0.5,sinnoh route 210 south towards solaceon town,4,walk,,1,0,1,1,0,0,0,0,1,0
+seel,0.5,whirl islands b3f,60,walk,,1,1,0,0,1,0,0,0,0,0
+sentret,0.5,sinnoh route 202 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+seviper,0.5,sinnoh route 210 west towards celestic town,4,walk,,1,0,1,1,0,0,0,0,0,1
+sharpedo,0.5,sinnoh route 222 area,15,super-rod,carvanha,1,0,1,0,0,0,0,0,0,0
+shellder,0.5,vermilion city ss anne dock,30,super-rod,,1,1,1,1,1,0,0,0,0,0
+shellos,0.5,valley windworks area,60,walk,,1,0,1,1,0,0,0,0,0,0
+shinx,0.5,valley windworks area,20,walk,,1,1,1,1,1,0,0,0,0,0
+shuckle,0.5,vermilion city area,10,walk,,1,1,1,1,1,1,0,0,0,0
+silcoon,0.5,sinnoh route 205 east towards eterna city,20,walk,wurmple,1,0,0,1,0,0,0,0,0,0
+skarmory,0.5,stark mountain area,5,walk,,1,0,1,1,1,0,0,0,0,0
+skiploom,0.5,sinnoh route 205 east towards eterna city,10,walk,hoppip,1,1,1,0,1,0,0,0,0,0
+skitty,0.75,sinnoh route 222 area,20,walk,,1,0,1,1,0,0,0,0,0,0
+skuntank,0.5,sinnoh route 225 area,10,walk,stunky,1,0,0,0,0,0,0,0,0,0
+slakoth,0.5,eterna forest area,20,walk,,1,0,1,1,0,0,0,0,0,0
+slowbro,0.5,slowpoke well b1f,10,walk,slowpoke,0,1,0,0,1,0,0,0,0,0
+slowpoke,0.5,tohjo falls area,30,walk,,0,1,1,1,1,0,0,0,0,0
+slugma,0.5,stark mountain inside,1,walk,,1,1,1,1,1,0,0,0,0,0
+smeargle,0.5,sinnoh route 212 north towards hearthome city,10,walk,,1,1,1,1,1,0,0,0,0,0
+sneasel,0.5,snowpoint temple b5f,20,walk,,1,1,1,1,1,0,0,0,0,0
+snorlax,0.125,kanto route 12 area,100,pokeflute,munchlax,0,1,0,0,1,0,0,0,0,0
+snorunt,0.5,sinnoh route 217 area,10,walk,,1,0,1,1,0,0,0,0,0,0
+snover,0.5,sinnoh route 217 area,20,walk,,1,0,1,1,0,0,0,0,0,0
+snubbull,0.75,sinnoh route 209 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+spearow,0.5,sinnoh sea route 226 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+spheal,0.5,sinnoh sea route 230 area,30,surf,,0,0,1,0,0,0,0,0,0,0
+spinarak,0.5,kanto route 2 south towards viridian city,10,walk,,0,1,0,0,0,0,0,0,0,0
+spinda,0.5,sprout tower 3f,20,walk,,1,1,1,1,1,0,0,0,0,0
+spiritomb,0.5,sinnoh route 209 area,100,only-one,,1,0,1,1,0,0,0,0,0,0
+spoink,0.5,viridian forest area,20,walk,,1,1,1,1,1,0,0,0,0,0
+stantler,0.5,sinnoh route 207 area,10,walk,,0,1,1,1,1,0,0,0,0,0
+staravia,0.5,valor lakefront area,20,walk,starly,1,0,1,1,0,0,0,1,0,0
+starly,0.5,sinnoh route 212 north towards hearthome city,20,walk,,1,0,1,1,0,0,0,0,0,0
+steelix,0.5,snowpoint temple b5f,20,walk,onix,1,1,1,1,1,0,0,0,0,0
+stunky,0.5,sinnoh route 221 area,20,walk,,1,0,0,0,0,0,0,0,0,0
+sudowoodo,0.5,sinnoh route 221 area,100,walk,bonsly,0,1,1,1,1,0,0,0,0,0
+sunkern,0.5,sinnoh route 204 north towards floaroma town,10,walk,,1,1,1,1,1,0,0,0,0,0
+surskit,0.5,sinnoh route 229 area,20,walk,,1,0,1,1,0,0,0,0,0,0
+swablu,0.5,sinnoh route 211 east towards celestic town,20,walk,,1,1,1,1,1,0,0,0,0,0
+swellow,0.5,sinnoh route 213 area,1,walk,taillow,1,0,1,1,0,0,0,0,0,0
+swinub,0.5,sinnoh route 217 area,20,walk,,1,1,1,1,1,0,0,0,0,0
+tangela,0.5,mt silver outside,10,walk,,0,1,0,1,1,0,0,0,0,0
+teddiursa,0.5,sinnoh route 211 west towards eterna city,10,walk,,1,0,1,1,1,1,0,0,0,0
+tentacool,0.5,whirl islands 1f,60,surf,,1,1,1,1,1,0,0,0,0,0
+tentacruel,0.5,whirl islands b2f,60,surf,tentacool,1,1,1,1,1,0,0,0,0,0
+togepi,0.125,sinnoh sea route 230 area,1,walk,,1,0,1,1,0,0,0,0,0,0
+torkoal,0.5,stark mountain area,1,walk,,1,0,1,1,0,0,0,0,0,0
+trapinch,0.5,sinnoh route 228 area,1,walk,,1,0,1,0,0,0,0,0,0,0
+tropius,0.5,great marsh area 2,10,walk,,0,0,0,1,0,0,0,0,0,0
+ursaring,0.5,sinnoh route 217 area,10,walk,teddiursa,1,0,1,1,1,1,0,0,0,0
+venomoth,0.5,sinnoh route 229 area,10,walk,venonat,1,1,1,1,1,0,0,0,0,0
+venonat,0.5,sinnoh route 229 area,10,walk,,1,1,1,1,1,0,0,0,0,0
+vibrava,0.5,sinnoh route 228 area,10,walk,trapinch,1,0,1,0,0,0,0,0,0,0
+vulpix,0.75,sinnoh route 214 area,4,walk,,1,0,1,1,1,0,0,1,0,0
+wailmer,0.5,sinnoh sea route 230 area,40,super-rod,,1,0,1,1,0,0,0,0,0,0
+wailord,0.5,sinnoh sea route 230 area,1,super-rod,wailmer,1,0,1,1,0,0,0,0,0,0
+weedle,0.5,viridian forest area,20,walk,,1,0,1,1,1,0,0,1,0,0
+weepinbell,0.5,sinnoh sea route 230 area,20,walk,bellsprout,1,1,1,1,1,0,0,0,0,0
+weezing,0.5,stark mountain inside,10,walk,koffing,1,1,1,1,1,0,0,0,0,0
+whiscash,0.5,violet city area,40,super-rod,barboach,1,1,1,1,1,0,0,0,0,0
+whismur,0.5,ruins of alph outside,10,walk,,0,1,0,0,1,0,0,0,0,0
+wingull,0.5,vermilion city ss anne dock,60,walk,,1,1,1,1,1,0,0,0,0,0
+wobbuffet,0.5,lake verity before galactic intervention,10,walk,wynaut,1,1,1,1,1,0,0,0,0,0
+wooper,0.5,union cave b1f,60,walk,,1,1,1,1,1,0,0,0,0,0
+wurmple,0.5,sinnoh route 205 east towards eterna city,10,walk,,1,0,1,1,0,0,0,0,0,0
+yanma,0.5,johto route 35 area,1,walk,,0,1,0,1,1,0,0,0,0,0
+zangoose,0.5,sinnoh route 210 west towards celestic town,4,walk,,1,0,1,1,0,0,0,0,1,0
+zigzagoon,0.5,unknown all rattata area,20,walk,,1,1,1,1,1,0,0,0,0,0
+zubat,0.5,whirl islands b3f,60,walk,,1,1,1,1,1,0,0,0,0,0
