@@ -1,7 +1,3 @@
-## Cute Charmers
- - Gible
- - Shellos East
-
 ## Lots of These Would Be Great
  - Riolu
  - Linoon (High level)
@@ -17,7 +13,6 @@
    - Teddyursa/Ursuring
    - Mime Jr
    - Weezing
-   - Primape
    - Stantler 
 ### Psudo Legendaries:
    - Larvitar
@@ -26,16 +21,7 @@
  
 ## Sans Cute Charm
 
-Pearl Stationary:
-  - Regigigas
-  - Cresselia
-
 SoulSilver Stationary:
- - Articuno
- - Zapdos
- - Moltres
- - Tyrogue (Kiyo's Gift)
- - Suicune
  - Lvl 1 Dialgia/Palkia/Giratina
 
 Always Same Gender:
